@@ -9,4 +9,4 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-E95420?style=for-the-badge&logo=matlab&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ### Connect with Me  
-📫 [Email](visheshfaujdar91@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishesh-faujdar-8196b537a/) | [Twitter](https://x.com/vishesh_faujdar)  
+📫 [Personal Email](visheshfaujdar91@gmail.com) | [University Email](vishesh3@s.amity.edu) | [LinkedIn](https://www.linkedin.com/in/vishesh-faujdar-8196b537a/) | [Twitter](https://x.com/vishesh_faujdar)  
